@@ -1,0 +1,3 @@
+# Module eenvoudige_website
+# RPC service class, partial path of RPC policy file
+html.client.GreetingService, 481E68874A5C35474EDF98160415319C.gwt.rpc
